@@ -17,7 +17,7 @@ export function ProductCard({ product, className }: ProductCardProps) {
 
   return (
     <div className={cn("group flex flex-col", className)}>
-      <div className="relative aspect-[2/3] overflow-hidden bg-neutral-100 mb-4">
+      <div className="relative aspect-[3/3] overflow-hidden bg-neutral-100 mb-4">
         <Link to={`/product/${product.id}`} className="absolute inset-0 z-10">
           <img
             src={product.images[0]}
