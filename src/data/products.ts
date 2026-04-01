@@ -114,8 +114,8 @@ export const products: Product[] = [
     description: 'An elegant midi dress featuring a square neckline, structured bodice, and a flowing skirt. Perfect for transitioning from day to evening.',
     price: 165,
     images: [
-      'https://images.unsplash.com/photo-1595777457583-95e059d581b8?q=80&w=1000&auto=format&fit=crop',
-      'https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?q=80&w=1000&auto=format&fit=crop'
+      'https://plus.unsplash.com/premium_photo-1673384389447-5a4364e7c93b?q=80&w=688&auto=format&fit=crop',
+      'https://plus.unsplash.com/premium_photo-1673384389967-e31ea744f3eb?q=80&w=688&auto=format&fit=crop'
     ],
     category: 'Women',
     subCategory: 'Dresses',
