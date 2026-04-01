@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-import { createBrowserRouter, RouterProvider } from 'react-router-dom';
+import { createHashRouter, RouterProvider } from 'react-router-dom';
 import { Layout } from './components/layout/Layout';
 import { Home } from './pages/Home';
 import { Shop } from './pages/Shop';
@@ -21,7 +21,7 @@ import { Returns } from './pages/policies/Returns';
 import { Privacy } from './pages/policies/Privacy';
 import { Terms } from './pages/policies/Terms';
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: '/',
     element: <Layout />,
