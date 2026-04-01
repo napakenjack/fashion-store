@@ -92,7 +92,7 @@ export function ProductDetails() {
           </div>
           
           {/* Main Image */}
-          <div className="relative aspect-[1/3] w-full bg-neutral-100">
+          <div className="relative aspect-[2/3] w-full bg-neutral-100">
             <img
               src={product.images[activeImageIndex]}
               alt={product.name}
