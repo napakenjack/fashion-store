@@ -105,7 +105,7 @@ export function Home() {
             </Link>
             <Link to="/shop/accessories" className="group relative aspect-[4/5] overflow-hidden bg-neutral-100 sm:col-span-2 lg:col-span-1">
               <img
-                src="https://images.unsplash.com/photo-1584916201218-f4242ceb4809?q=80&w=1000&auto=format&fit=crop"
+                src="https://images.unsplash.com/photo-1492707892479-7bc8d5a4ee93?q=80&w=930&auto=format&fit=crop"
                 alt="Accessories"
                 className="absolute inset-0 h-full w-full object-cover transition-transform duration-700 group-hover:scale-105"
               />
