@@ -73,7 +73,7 @@ export function Home() {
           <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
             <Link to="/shop/women" className="group relative aspect-[4/5] overflow-hidden bg-neutral-100">
               <img
-                src="https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?q=80&w=1000&auto=format&fit=crop"
+                src="https://images.unsplash.com/photo-1590330297626-d7aff25a0431?q=80&w=687&auto=format&fit=crop"
                 alt="Women's Collection"
                 className="absolute inset-0 h-full w-full object-cover transition-transform duration-700 group-hover:scale-105"
               />
