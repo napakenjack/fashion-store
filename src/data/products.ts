@@ -160,7 +160,7 @@ export const products: Product[] = [
     price: 85,
     images: [
       'https://images.unsplash.com/photo-1556821840-3a63f95609a7?q=80&w=1000&auto=format&fit=crop',
-      'https://images.unsplash.com/photo-1521223830114-469273446b60?q=80&w=1000&auto=format&fit=crop'
+      'https://images.unsplash.com/photo-1542406775-ade58c52d2e4?q=80&w=687&auto=format&fit=crop'
     ],
     category: 'Unisex',
     subCategory: 'Hoodies',
